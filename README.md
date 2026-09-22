@@ -6,7 +6,7 @@
 
 **Data Analyst**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=640&lines=Transformando%20dados%20em%20decis%C3%B5es%20estrat%C3%A9gicas;Criando%20dashboards%20e%20an%C3%A1lises%20automatizadas;SQL%2C%20Python%20e%20Power%20BI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=640&lines=Transformando%20dados%20em%20decis%C3%B5es%20estrat%C3%A9gicas;Criando%20dashboards%20e%20an%C3%A1lises%20automatizadas)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberta-salyna-989a9176/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:analyst.salyna@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://roberta-showcase-magic.lovable.app/)
 
@@ -21,7 +21,7 @@ Analista de Dados Júnior com experiência em iFood e Mercado Eletrônico. Espec
 - ⌖ **Location** · São Paulo, Brasil
 - ⌗ **Experience** · Analista de dados autônomo
 - ◎ **Education** · Generation Brasil
-- ⟳ **Learning** · Python, Power BI e Storytelling de dados
+- ⟳ **Learning** · Distributed systems, queues, and platform engineering
 - ✦ **Fun fact** · Transformo planilhas confusas em painéis que contam histórias
 
 ## Tools I Reach For
@@ -36,25 +36,19 @@ Analista de Dados Júnior com experiência em iFood e Mercado Eletrônico. Espec
 
 **DevOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=figma,vercel,git,gcp&theme=dark" alt="DevOps & Cloud"/>
+<img src="https://skillicons.dev/icons?i=gcp,vercel,figma&theme=dark" alt="DevOps & Cloud"/>
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=pandas&theme=dark" alt="AI / ML"/>
+<img src="https://skillicons.dev/icons?i=pandas,jupyter&theme=dark" alt="AI / ML"/>
 
 **Custom**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge) ![Excel](https://img.shields.io/badge/Excel-111827?style=for-the-badge) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-111827?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge) ![Excel](https://img.shields.io/badge/Excel-111827?style=for-the-badge) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-111827?style=for-the-badge) ![Google Colab](https://img.shields.io/badge/Google%20Colab-111827?style=for-the-badge)
 
 ## Languages
 - 🌐 **Português** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
 - 🇬🇧 **English** · ![Basic](https://img.shields.io/badge/-Basic-ff4444?style=flat-square)
-
-## GitHub Signals
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=robertasalyna&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true" alt="Roberta Salyna stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertasalyna&layout=compact&langs_count=8&theme=aura&hide_border=true" alt="Roberta Salyna top languages"/>
 
 <div align="center">
 
